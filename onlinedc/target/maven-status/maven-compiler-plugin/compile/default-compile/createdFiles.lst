@@ -1,0 +1,8 @@
+eb\onlinedc\converter\RoleToUserProfileConverter.class
+eb\onlinedc\security\SecurityWebApplicationInitializer.class
+eb\onlinedc\security\CustomUserDetailsService.class
+eb\onlinedc\controller\JSONController.class
+eb\onlinedc\configuration\AppInitializer.class
+eb\onlinedc\controller\AppController.class
+eb\onlinedc\configuration\AppConfig.class
+eb\onlinedc\security\SecurityConfiguration.class
